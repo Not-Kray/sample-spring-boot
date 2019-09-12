@@ -18,9 +18,4 @@ public class DemoApplicationTests {
 		assertTrue(true);
 	}
 
-	@Test
-        public void myTest2() {
-                assertTrue(false);
-        }
-
 }
